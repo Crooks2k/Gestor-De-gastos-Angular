@@ -1,0 +1,19 @@
+.header button{
+  width: 11rem;
+  height: 2.5rem;
+  border: none;
+  background-color: #00875F;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+}
+.header{
+  background-color: #121214;
+}
+.header a{
+  color: #fff;
+  font-weight: bold;
+}
+.header a button:hover{
+  transform: scale(1.1);
+}
